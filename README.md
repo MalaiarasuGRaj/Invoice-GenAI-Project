@@ -69,11 +69,11 @@ Follow these steps to get the project up and running:
 
 **🧩 Code Overview**
 
-    **InvoiceExtracter.py:** Main script for running the Streamlit application. Handles PDF uploads, text and image extraction, and uses the generative AI model for extracting invoice details.
-    **requirements.txt:** Lists the Python dependencies required for the project. Install these using pip install -r requirements.txt.
-    **sample_invoices/:** Contains example PDF invoices used for testing the extraction functionality.
-    **screenshots/:** Includes screenshots showcasing the application in use.
-    **screenrecordings/:** Provides video recordings of the application's workflow for a visual demonstration.
+    InvoiceExtracter.py: Main script for running the Streamlit application. Handles PDF uploads, text and image extraction, and uses the generative AI model for extracting invoice details.
+    requirements.txt: Lists the Python dependencies required for the project. Install these using pip install -r requirements.txt.
+    sample_invoices/: Contains example PDF invoices used for testing the extraction functionality.
+    screenshots/: Includes screenshots showcasing the application in use.
+    screenrecordings/: Provides video recordings of the application's workflow for a visual demonstration.
 
 **🛠️ Troubleshooting**
 
