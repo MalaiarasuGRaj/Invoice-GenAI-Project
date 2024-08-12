@@ -53,6 +53,7 @@ Follow these steps to get the project up and running:
     Open InvoiceExtracter.py and insert your Google Generative AI API key where indicated.
 
 **🏃‍♂️ Usage**
+
 **1. Run the Streamlit Application**
 
     Start the Streamlit app by executing:
@@ -67,6 +68,7 @@ Follow these steps to get the project up and running:
     The application will process the files and display extracted details, including customer information, product lists, and total amounts.
 
 **🧩 Code Overview**
+
     InvoiceExtracter.py: Main script for running the Streamlit application. Handles PDF uploads, text and image extraction, and uses the generative AI model for extracting invoice details.
     requirements.txt: Lists the Python dependencies required for the project. Install these using pip install -r requirements.txt.
     sample_invoices/: Contains example PDF invoices used for testing the extraction functionality.
@@ -74,10 +76,12 @@ Follow these steps to get the project up and running:
     screenrecordings/: Provides video recordings of the application's workflow for a visual demonstration.
 
 **🛠️ Troubleshooting**
+
     Extraction Issues: Ensure the PDFs are not encrypted or password-protected, Tesseract OCR is correctly installed, and the API key is valid and correctly configured.
     Error Messages: Check Streamlit logs for detailed error messages to assist in debugging.
 
 **🤝 Contributing**
+
     Contributions to improve the project are welcome! To contribute:
     Fork the repository.
     Create a new branch for your changes (git checkout -b feature-branch).
