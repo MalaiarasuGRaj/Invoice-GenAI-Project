@@ -69,24 +69,24 @@ Follow these steps to get the project up and running:
 
 **🧩 Code Overview**
 
-   InvoiceExtracter.py: Main script for running the Streamlit application. Handles PDF uploads, text and image extraction, and uses the generative AI model for extracting invoice details.
-   requirements.txt: Lists the Python dependencies required for the project. Install these using pip install -r requirements.txt.
-   sample_invoices/: Contains example PDF invoices used for testing the extraction functionality.
-   output/: Includes screenshots showcasing the application in use, Provides video recordings of the application's workflow for a visual demonstration.
+   - InvoiceExtracter.py: Main script for running the Streamlit application. Handles PDF uploads, text and image extraction, and uses the generative AI model for extracting invoice details.
+   - requirements.txt: Lists the Python dependencies required for the project. Install these using pip install -r requirements.txt.
+   - sample_invoices/: Contains example PDF invoices used for testing the extraction functionality.
+   - output/: Includes screenshots showcasing the application in use, Provides video recordings of the application's workflow for a visual demonstration.
 
 **🛠️ Troubleshooting**
 
-   Extraction Issues: Ensure the PDFs are not encrypted or password-protected, Tesseract OCR is correctly installed, and the API key is valid and correctly configured.
-   Error Messages: Check Streamlit logs for detailed error messages to assist in debugging.
+   - Extraction Issues: Ensure the PDFs are not encrypted or password-protected, Tesseract OCR is correctly installed, and the API key is valid and correctly configured.
+   - Error Messages: Check Streamlit logs for detailed error messages to assist in debugging.
 
 **🤝 Contributing**
 
-   Contributions to improve the project are welcome! To contribute:
-   Fork the repository.
-   Create a new branch for your changes (git checkout -b feature-branch).
-   Make your changes and commit them (git commit -am 'Add new feature').
-   Push your branch to GitHub (git push origin feature-branch).
-   Open a pull request to merge your changes.
+   - Contributions to improve the project are welcome! To contribute:
+   - Fork the repository.
+   - Create a new branch for your changes (git checkout -b feature-branch).
+   - Make your changes and commit them (git commit -am 'Add new feature').
+   - Push your branch to GitHub (git push origin feature-branch).
+   - Open a pull request to merge your changes.
 
 **📧 Contact**
     For any questions or feedback, feel free to reach out:
